@@ -20,7 +20,7 @@ conda activate pixelnerf
 ```
 Please make sure you have up-to-date NVIDIA drivers supporting CUDA 10.2 at least.
 
-Alternatively use `pip -r requirements.txt`.
+Alternatively use `pip install -r requirements.txt`.
 
 # Getting the data
 
